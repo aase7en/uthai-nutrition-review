@@ -1,0 +1,163 @@
+{
+  "protein-main": {
+    "source": "thai_kidney_diet_protein_guide.png",
+    "poster": "posters/protein-main.webp",
+    "tileCount": 6,
+    "tiles": [
+      "protein-main-01",
+      "protein-main-02",
+      "protein-main-03",
+      "protein-main-04",
+      "protein-main-05",
+      "protein-main-06"
+    ]
+  },
+  "protein-extra": {
+    "source": "โปรต_นควรระว_งฟอสฟอร_ส.png",
+    "poster": "posters/protein-extra.webp",
+    "tileCount": 6,
+    "tiles": [
+      "protein-extra-01",
+      "protein-extra-02",
+      "protein-extra-03",
+      "protein-extra-04",
+      "protein-extra-05",
+      "protein-extra-06"
+    ]
+  },
+  "veg-lowk": {
+    "source": "ผ_กโพแทสเซ_ยมต_าท_ม_กเล_อกได.png",
+    "poster": "posters/veg-lowk.webp",
+    "tileCount": 12,
+    "tiles": [
+      "veg-lowk-01",
+      "veg-lowk-02",
+      "veg-lowk-03",
+      "veg-lowk-04",
+      "veg-lowk-05",
+      "veg-lowk-06",
+      "veg-lowk-07",
+      "veg-lowk-08",
+      "veg-lowk-09",
+      "veg-lowk-10",
+      "veg-lowk-11",
+      "veg-lowk-12"
+    ]
+  },
+  "veg-highk": {
+    "source": "ผ_กโพแทสเซ_ยมค_อนข_างส_ง.png",
+    "poster": "posters/veg-highk.webp",
+    "tileCount": 12,
+    "tiles": [
+      "veg-highk-01",
+      "veg-highk-02",
+      "veg-highk-03",
+      "veg-highk-04",
+      "veg-highk-05",
+      "veg-highk-06",
+      "veg-highk-07",
+      "veg-highk-08",
+      "veg-highk-09",
+      "veg-highk-10",
+      "veg-highk-11",
+      "veg-highk-12"
+    ]
+  },
+  "fruit-lowk": {
+    "source": "thai_kidney_friendly_fruit_guide.png",
+    "poster": "posters/fruit-lowk.webp",
+    "tileCount": 12,
+    "tiles": [
+      "fruit-lowk-01",
+      "fruit-lowk-02",
+      "fruit-lowk-03",
+      "fruit-lowk-04",
+      "fruit-lowk-05",
+      "fruit-lowk-06",
+      "fruit-lowk-07",
+      "fruit-lowk-08",
+      "fruit-lowk-09",
+      "fruit-lowk-10",
+      "fruit-lowk-11",
+      "fruit-lowk-12"
+    ]
+  },
+  "fruit-highk": {
+    "source": "high_potassium_fruit_guide.png",
+    "poster": "posters/fruit-highk.webp",
+    "tileCount": 12,
+    "tiles": [
+      "fruit-highk-01",
+      "fruit-highk-02",
+      "fruit-highk-03",
+      "fruit-highk-04",
+      "fruit-highk-05",
+      "fruit-highk-06",
+      "fruit-highk-07",
+      "fruit-highk-08",
+      "fruit-highk-09",
+      "fruit-highk-10",
+      "fruit-highk-11",
+      "fruit-highk-12"
+    ]
+  },
+  "phosphorus": {
+    "source": "thai_high_phosphorus_foods_guide.png",
+    "poster": "posters/phosphorus.webp",
+    "tileCount": 9,
+    "tiles": [
+      "phosphorus-01",
+      "phosphorus-02",
+      "phosphorus-03",
+      "phosphorus-04",
+      "phosphorus-05",
+      "phosphorus-06",
+      "phosphorus-07",
+      "phosphorus-08",
+      "phosphorus-09"
+    ]
+  },
+  "sodium-condiment": {
+    "source": "thai_sodium_guide_condiment_edition.png",
+    "poster": "posters/sodium-condiment.webp",
+    "tileCount": 8,
+    "tiles": [
+      "sodium-condiment-01",
+      "sodium-condiment-02",
+      "sodium-condiment-03",
+      "sodium-condiment-04",
+      "sodium-condiment-05",
+      "sodium-condiment-06",
+      "sodium-condiment-07",
+      "sodium-condiment-08"
+    ]
+  },
+  "sodium-meals": {
+    "source": "thai_sodium_guide_kidney_friendly_choices.png",
+    "poster": "posters/sodium-meals.webp",
+    "tileCount": 8,
+    "tiles": [
+      "sodium-meals-01",
+      "sodium-meals-02",
+      "sodium-meals-03",
+      "sodium-meals-04",
+      "sodium-meals-05",
+      "sodium-meals-06",
+      "sodium-meals-07",
+      "sodium-meals-08"
+    ]
+  },
+  "carbohydrate": {
+    "source": "thai_low_protein_carb_guide.png",
+    "poster": "posters/carbohydrate.webp",
+    "tileCount": 6,
+    "tiles": [
+      "carbohydrate-01",
+      "carbohydrate-02",
+      "carbohydrate-03",
+      "carbohydrate-04",
+      "carbohydrate-05",
+      "carbohydrate-06"
+    ]
+  }
+}
